@@ -1,4 +1,5 @@
 # pages/dashboard.py
+pip install plotly folium streamlit-folium
 import streamlit as st
 import pandas as pd
 import numpy as np
